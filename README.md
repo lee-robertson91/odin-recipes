@@ -1,3 +1,4 @@
-# odin-recipes
-This is my first project through the Odin Project.
-I'm pretty good with adding links, images and lists so I think the html element of this project will be straight forward. 
+Odin Recipes
+This is my first project where I will build something with code. 
+I am confident I know how to use basic HTML. 
+I am not confident using git and the command line. 
